@@ -1,0 +1,7 @@
+
+ohlc
+
+pip install plotly --index-url=https://pypi.org/simple
+
+
+http://127.0.0.1:55756/
